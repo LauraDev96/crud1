@@ -24,7 +24,7 @@
     </head>
 
     <body>
-        <header class="container-fluid bg-warning text-center py-3 display-4">
+        <header class="container-fluid bg-info text-center py-3 display-4">
             Sistema Gestor de Inventariado de productos
         </header>
         <main>
